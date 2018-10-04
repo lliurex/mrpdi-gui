@@ -1,5 +1,5 @@
 #!/usr/bin/make -f 
 
 %:
-	dh $@ --with llxsrc,llxdev
+	dh $@ --with llxsrc,i18n
 
