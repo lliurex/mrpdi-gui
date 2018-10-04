@@ -1,0 +1,4 @@
+rsrc/interface.glade /usr/share/mrpdi/gui/
+rsrc/*.svg /usr/share/mrpdi/gui/
+src/mrpdi-gui /usr/bin/
+rsrc/mrpdi-gui.desktop /usr/share/applications/
