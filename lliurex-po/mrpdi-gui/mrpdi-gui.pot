@@ -1,0 +1,76 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-07 09:41+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: interface.glade:6
+msgid "MrPDI"
+msgstr ""
+
+#: interface.glade:52 interface.glade:51
+msgid "Start"
+msgstr ""
+
+#: interface.glade:101 interface.glade:100
+msgid "Calibrate"
+msgstr ""
+
+#: interface.glade:136 interface.glade:135
+msgid "Debug"
+msgstr ""
+
+#: interface.glade:171
+msgid "Exit"
+msgstr ""
+
+#: interface.glade:222
+msgid "You are about to close mrpdi, do you want to continue?"
+msgstr ""
+
+#: mrpdi-gui.cpp:86
+msgid "Type"
+msgstr ""
+
+#: mrpdi-gui.cpp:87
+msgid "Id"
+msgstr ""
+
+#: mrpdi-gui.cpp:88
+msgid "Address"
+msgstr ""
+
+#: mrpdi-gui.cpp:89
+msgid "Name"
+msgstr ""
+
+#: mrpdi-gui.cpp:90
+msgid "Status"
+msgstr ""
+
+#: mrpdi-gui.cpp:132
+msgid "Show"
+msgstr ""
+
+#: mrpdi-gui.cpp:150
+msgid "Running"
+msgstr ""
+
+#: mrpdi-gui.cpp:151
+msgid "Stop"
+msgstr ""
+
