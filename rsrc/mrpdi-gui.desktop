@@ -1,0 +1,14 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=MrPDI, PDI multidriver
+Name[es]=MrPDI, controlador múltiple PDI
+Name[ca_ES@valencia]=MrPDI, controlador múltiple PDI
+Comment=MrPDI driver user interface manager
+Comment[es]=MrPDI Interfaz gráfica del gestor del controlador
+Comment[ca_ES@valencia]=MrPDI Interficie gráfica del gestor del controlador
+Type=Application
+Exec=gksudo mrpdi-gui
+Icon=mrpdi
+Terminal=0
+Categories=GNOME;GTK;Utility;
+TryExec=/usr/bin/mrpdi-gui
