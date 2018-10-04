@@ -1,3 +1,9 @@
+mrpdi-gui (2.7) bionic; urgency=medium
+
+  * Bionic release
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Thu, 04 Oct 2018 09:55:48 +0200
+
 mrpdi-gui (2.2.13) xenial; urgency=medium
 
   * Removed deprecated locale
