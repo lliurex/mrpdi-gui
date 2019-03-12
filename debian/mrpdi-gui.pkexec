@@ -1,0 +1,26 @@
+[
+    {
+        "cmd": "/usr/bin/mrpdi-gui",
+        "prefix": "net.lliurex.mrpdi-gui",
+        "nameaction": "mrpdi-gui",
+        "icon": "mrpdi",
+        "auths": [
+            {
+                "type": "group",
+                "members": [
+                    "teachers",
+                    "sudo"
+                ],
+                "any": "no",
+                "inactive": "no",
+                "active": "auth_self"
+            }
+        ],
+        "default_auth": {
+            "any": "no",
+            "inactive": "no",
+            "active": "no"
+        },
+        "requiredx": "true"
+    }
+]
