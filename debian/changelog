@@ -1,3 +1,9 @@
+mrpdi-gui (2.7.1) bionic; urgency=medium
+
+  * Replace gksudo with pexec
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Tue, 12 Mar 2019 13:43:17 +0100
+
 mrpdi-gui (2.7) bionic; urgency=medium
 
   * Bionic release

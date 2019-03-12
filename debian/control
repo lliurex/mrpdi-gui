@@ -3,7 +3,7 @@ Section: admin
 Priority: optional
 Maintainer: Equipo LliureX <lliurex@gva.es>
 Uploaders: M.Angel Juan <m.angel.juan@gmail.com>, Raul Rodrigo Segura <lliurex_devel3@edu.gva.es>, Hector Garcia Huerta <lliurex_devel1@edu.gva.es>, Daniel Duran Vecino <daduve@gmail.com>, Juanma Navarro <juanma1980@gmail.com>, Juan Ramon Pelegrina <juapesai@hotmail.com>, Enrique Medina Gremaldos <lliurex_devel4@edu.gva.es>
-Build-Depends: llxsrchelper,cdbs, debhelper (>= 7), libgtkmm-3.0-dev, mrpdi-dev (>=2.2), libconfig++-dev, libappindicator3-dev, python3-poinstaller
+Build-Depends: llxsrchelper,cdbs, debhelper (>= 7), libgtkmm-3.0-dev, mrpdi-dev (>=2.2), libconfig++-dev, libappindicator3-dev, python3-poinstaller, zero-dev
 Standards-Version: 4.1.4
  
 Package: mrpdi-gui
